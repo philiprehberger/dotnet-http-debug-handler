@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.2.0 (2026-03-12)
+
+### Added
+
+- Request and response body capture with configurable size limit
+- Header logging for request and response headers
+- Slow request detection with configurable threshold and callback
+
 ## 0.1.1 (2026-03-10)
 
 - Fix README path in csproj so README displays on nuget.org
