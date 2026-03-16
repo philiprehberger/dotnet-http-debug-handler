@@ -131,6 +131,12 @@ var handler = new DebugHandler(log =>
 | `SlowRequestThreshold` | `TimeSpan?` — threshold for slow request detection |
 | `OnSlowRequest` | `Action<RequestLog>?` — callback for requests exceeding the threshold |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.HttpDebugHandler.csproj --configuration Release
+```
+
 ## License
 
 MIT
