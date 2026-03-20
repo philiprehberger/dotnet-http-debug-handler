@@ -6,7 +6,7 @@
 
 A `DelegatingHandler` that logs and times every outgoing `HttpClient` request.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.HttpDebugHandler
