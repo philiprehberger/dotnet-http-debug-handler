@@ -1,21 +1,23 @@
 # Changelog
 
+## 0.2.5 (2026-03-22)
+
+- Add dates to changelog entries
+
 ## 0.2.4 (2026-03-20)
 
 - Align README and csproj descriptions
 
-## 0.2.3
+## 0.2.3 (2026-03-16)
 
 - Add Development section to README
 - Add GenerateDocumentationFile and RepositoryType to .csproj
 
 ## 0.2.0 (2026-03-12)
 
-### Added
-
-- Request and response body capture with configurable size limit
-- Header logging for request and response headers
-- Slow request detection with configurable threshold and callback
+- Add request and response body capture with configurable size limit
+- Add header logging for request and response headers
+- Add slow request detection with configurable threshold and callback
 
 ## 0.1.1 (2026-03-10)
 
