@@ -17,6 +17,7 @@ jobs:
           dotnet-version: '8.0.x'
       - run: dotnet restore src/Philiprehberger.HttpDebugHandler.csproj
       - run: dotnet build src/Philiprehberger.HttpDebugHandler.csproj --configuration Release --no-restore
+      - run: dotnet test tests/Philiprehberger.HttpDebugHandler.Tests/Philiprehberger.HttpDebugHandler.Tests.csproj --configuration Release --no-restore
 
   publish:
     needs: build
