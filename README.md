@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-http-debug-handler/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-http-debug-handler/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.HttpDebugHandler.svg)](https://www.nuget.org/packages/Philiprehberger.HttpDebugHandler)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-http-debug-handler)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 DelegatingHandler that logs and times every outgoing HttpClient request.
 
