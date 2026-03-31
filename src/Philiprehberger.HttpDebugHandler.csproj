@@ -7,7 +7,7 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.HttpDebugHandler</PackageId>
-    <Version>0.2.6</Version>
+    <Version>0.2.7</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>DelegatingHandler that logs and times every outgoing HttpClient request.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
